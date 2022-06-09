@@ -1,0 +1,23 @@
+.top-Navigation-bar{
+	background-color: grey;
+	overflow: hidden;
+}
+
+.top-Navigation-bar a {
+	  float: left;
+  	color: white;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+  	font-size: 50px;
+}
+
+.top-Navigation-bar a:hover {
+	background-color: none;
+  color: white;
+}
+
+.top-Navigation-bar a:active {
+	background-color: #5A789A;
+  color: white;
+}
